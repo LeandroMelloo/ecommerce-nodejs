@@ -1,2 +1,2 @@
-# desenvolvendo_um_ecomerce_com_nodeJS
+# desenvolvendo-um-ecomerce-com-nodeJS
 Desenvolvendo um ecomerce com NodeJS
