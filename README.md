@@ -1,2 +1,2 @@
-# ecomerce-nodejs
-Desenvolvendo um ecomerce com NodeJS
+# ecommerce-nodejs
+Desenvolvendo um ecommerce com NodeJS
